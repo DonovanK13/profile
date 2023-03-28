@@ -1,2 +1,2 @@
 # profile
-An introduction of Donovan Kim as a professional in field of finance &amp; data science
+Hello! My name is Dukho Donovan Kim.  Although I am a seasoned professional with a diverse background in finance and business development, I lately found my passion in Data Science. With over 20 years of experience in investment banking, consumer finance & solar energy generation project development, I am a specialist in financial modeling, investment research, and data analysis. With my finance background (currently CFA charterholder) and training Jovian data science bootcamp (500+ hours training in Python, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Ppower BI/Tableau), I am ready to take on new challenges in the field of data science.
